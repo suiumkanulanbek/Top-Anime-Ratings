@@ -1,0 +1,5 @@
+This project is a auto-updating website that displays anime ratings from the website "MyAnimeList".
+First, I scraped the data from the website in Jupyter Notebooks. 
+Then I saved the data table in my computer using python pandas.
+Then I created a GitHub repo, in which I created the website using GitHub Actions.
+I created the data vizualization in Datawrapper and inserted it to my auto-updating website. 
