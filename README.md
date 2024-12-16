@@ -1,2 +1,2 @@
-this is a project that displays anime ratings!
+This project is an auto-updating website that displays anime ratings from MyAnimeList every week! 
 
